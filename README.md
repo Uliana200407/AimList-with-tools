@@ -4,6 +4,10 @@ Let me introduce you my AimList app, which includes features for drawing, timing
 -  [Demonstration of work📲](#Demonstration-of-work📲)
 -  [Photo demonstration of work📸](#Photo-demonstration-of-work📸)
 
+https://user-images.githubusercontent.com/114984015/231269550-0f96adea-ab38-4b11-9ab2-90fa5d874859.mp4
+
+
+
 <a name="Functional-details🔐"/></a>
 ## Functional details🔐
 * AimList app employs Attributes (Core Data) to operate efficiently;
@@ -14,7 +18,6 @@ Let me introduce you my AimList app, which includes features for drawing, timing
 
 <a name="Demonstration-of-work📲"/></a>
 ## Demonstration of work📲
-[![Alt text for your video](https://i.imgur.com/4YgGuk4.mp4)
 
 <a name="Photo-demonstration-of-work📸"/></a>
 ## Photo demonstration of work📸
