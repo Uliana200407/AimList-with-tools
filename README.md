@@ -14,7 +14,7 @@ Let me introduce you my AimList app, which includes features for drawing, timing
 
 <a name="Demonstration-of-work📲"/></a>
 ## Demonstration of work📲
-[![Alt text for your video](https://i.imgur.com/IMGUR_VIDEO_ID.jpg)](https://i.imgur.com/4YgGuk4.mp4)
+[![Alt text for your video](https://i.imgur.com/4YgGuk4.mp4)
 
 <a name="Photo-demonstration-of-work📸"/></a>
 ## Photo demonstration of work📸
