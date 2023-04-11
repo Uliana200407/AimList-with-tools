@@ -15,6 +15,13 @@ Let me introduce you my AimList app, which includes features for drawing, timing
 <a name="Demonstration-of-work📲"/></a>
 ## Demonstration of work📲
 
+https://user-images.githubusercontent.com/114984015/230743105-def18524-0fb4-4a6a-abe6-e9cb9a40871c.mp4
+<a name="Photo-demonstration-of-work📸"/></a>
+## Photo demonstration of work📸
+
+Image 1 | Image 2
+:-: | :-:
+![Image1](https://i.imgur.com/0CHrS3t.png) | ![Image2](https://i.imgur.com/RKemN3D.png)
 
 
 
