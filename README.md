@@ -5,6 +5,10 @@ Let me introduce you my AimList app, which includes features for drawing, timing
 -  [Photo demonstration of work📸](#Photo-demonstration-of-work📸)
 
 
+| Заголовок 1 | Заголовок 2 | Заголовок 3 |
+|-------------|-------------|-------------|
+| Рядок 1-1   | Рядок 1-2   | Рядок 1-3   |
+| Рядок 2-1   | Рядок 2-2   | Рядок 2-3   |
 
 
 
